@@ -1,0 +1,35 @@
+* {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  border: 2px solid lightblue;
+  border-radius: 4px;
+  transition: width 0.4s ease-in-out;
+}
+
+form {
+  margin: 0 auto;
+  width: 250px;
+}
+
+.btn {
+  color: white;
+  background-color: #7289da;
+}
+
+.btn:hover {
+  background-color: #5267b2;
+  color: white;
+}
+
+p {
+  color: lightblue;
+  font: serif;
+  font-size: large;
+  font-weight: bold;
+}
