@@ -2,6 +2,8 @@
 
 An open source URL shortener with the MERN stack
 
+<img src="/short.png" />
+
 ## Setup
 
 Requirements
