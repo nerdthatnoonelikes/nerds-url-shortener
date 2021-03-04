@@ -2,6 +2,10 @@
 
 An open source URL shortener with the MERN stack
 
+Live Example: `http://skynode.me:8080`
+then after hitting create and recieving the short code visit `http://skynode.me/<code given here>` and you will be redirected!
+
+
 <img src="/short.png" />
 
 ## Setup
